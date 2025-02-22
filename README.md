@@ -1,8 +1,28 @@
-# React + Vite
+# Quick Clone React Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository provides a minimal setup to get a React application running with Vite, featuring Hot Module Replacement (HMR) and ESLint integration. It serves as a starting point for building scalable and maintainable web applications.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Vite**: A fast build tool and development server that offers rapid HMR for an efficient development experience.
+- **React**: A popular JavaScript library for building user interfaces.
+- **ESLint**: A tool for identifying and fixing linting issues in your JavaScript code.
+
+## Getting Started
+
+Follow these steps to set up and run the project locally.
+
+### Prerequisites
+
+Ensure you have the following installed on your system:
+
+- [Node.js](https://nodejs.org/) (version 12 or higher)
+- [npm](https://www.npmjs.com/) (Node package manager)
+
+### Installation
+
+1. **Clone the Repository**:
+
+   ```bash
+   git clone https://github.com/Priyanshu-rajsingh/Quick_Clone_React_frontend.git
+   cd Quick_Clone_React_frontend
